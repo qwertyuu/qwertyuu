@@ -38,7 +38,7 @@ My technical expertise is paired with a human approach and a touch of humor.
 Always seeking new challenges and projects with positive impact.  
 Contact me for collaboration, consulting, or to join the community!
 
-- 📄 [My CV](https://raphaelcote.com)
+- 📄 [My Personal Website](https://raphaelcote.com)
 - 💼 [RaphTech Consulting](https://raphtech.ca)
 - 🌐 [BorIA Community](https://boria.org)
 
